@@ -2,6 +2,12 @@
     * Add PHP/JS support (thanks @sloanlance).
     * Add C#/F# support (thanks @breiter).
     * Compile with XCode 9.0 targeting 10.13.
+    * Add Kotlin/Gradle (thanks @sonique6784).
+    * Remove JSON support (thanks @erdtsksn).
+    * Add option to preview file as RTF  (thanks @silum).
+    * Add C# support.
+    * Add Scala support.
+    * Add "reduce_filesize" plugin by default.
 
 2.0.8:
     * Remove bash_ref_linuxmanpages_com plugin.

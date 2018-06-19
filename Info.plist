@@ -29,6 +29,8 @@
 				<string>dyn.ah62d4rv4ge81g6pq</string>
 				<string>dyn.ah62d4rv4ge8007a</string>
 				<string>dyn.ah62d4rv4ge80s6xbqv0gn</string>
+				<string>dyn.ah62d4rv4ge81g25brvuu</string>
+				<string>dyn.ah62d4rv4ge80g62</string>
 			</array>
 		</dict>
 	</array>
@@ -1062,22 +1064,22 @@
 			</dict>
 		</dict>
 		<dict>
-            		<key>UTTypeConformsTo</key>
-            		<array>
-                		<string>dyn.ah62d4rv4ge80s6xbqv0gn</string>
-            		</array>
-            		<key>UTTypeDescription</key>
-            		<string>Gradle Source File</string>
-            		<key>UTTypeIdentifier</key>
-            		<string>org.gradle.source</string>
-            		<key>UTTypeTagSpecification</key>
-            		<dict>
-                		<key>public.filename-extension</key>
-                		<array>
-                   			<string>gradle</string>
-                		</array>
-            		</dict>
-        	</dict>
+			<key>UTTypeConformsTo</key>
+			<array>
+				<string>dyn.ah62d4rv4ge80s6xbqv0gn</string>
+			</array>
+			<key>UTTypeDescription</key>
+			<string>Gradle Source File</string>
+			<key>UTTypeIdentifier</key>
+			<string>org.gradle.source</string>
+			<key>UTTypeTagSpecification</key>
+			<dict>
+				<key>public.filename-extension</key>
+				<array>
+					<string>gradle</string>
+				</array>
+			</dict>
+		</dict>
 	</array>
 </dict>
 </plist>
