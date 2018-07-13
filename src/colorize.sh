@@ -38,6 +38,9 @@ case ${target} in
     *.graffle | *.ps )
         exit 1
         ;;
+    *.iml )
+        lang=xml
+        ;; 
     *.d )
         lang=make
         ;;
