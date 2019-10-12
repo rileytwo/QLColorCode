@@ -206,6 +206,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0940;
+				TargetAttributes = {
+					8D57630D048677EA00EA77CD = {
+						DevelopmentTeam = 7MGU4K38T3;
+						ProvisioningStyle = Manual;
+					};
+				};
 			};
 			buildConfigurationList = 2CA326220896AD4900168862 /* Build configuration list for PBXProject "QLColorCode" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -328,8 +334,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "Developer ID Application: Curt Tate-Roach (7MGU4K38T3)";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 7MGU4K38T3;
 				OTHER_CFLAGS = "-DDEBUG";
+				OTHER_CODE_SIGN_FLAGS = "--timestamp";
 			};
 			name = Debug;
 		};
@@ -337,7 +348,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = YES;
+				CODE_SIGN_IDENTITY = "Developer ID Application: Curt Tate-Roach (7MGU4K38T3)";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = NO;
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 7MGU4K38T3;
+				OTHER_CODE_SIGN_FLAGS = "--timestamp";
 			};
 			name = Release;
 		};
